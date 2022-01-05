@@ -18,9 +18,11 @@ h2{
 .half-width{
     width: 50%;
     padding-left: 2%;
+    padding-top: 5%;
 }
 .half-width img{
     width: 80%;
+    margin-top: 40%;
 }
 .link-button{
     text-decoration:none ;
